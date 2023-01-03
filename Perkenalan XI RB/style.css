@@ -1,0 +1,51 @@
+.navigasi{
+	background-color: lightpink;
+	color: midnightblue;
+	font-size: 35px;
+	overflow: hidden;
+	list-style: none;
+}
+
+li {
+	float: left;
+	margin: 10px;
+}
+.gambar{
+	width: 250px;
+	border-radius: 400px;
+}
+.teks {
+	font-size: 20px;
+	font-family: cursive;
+}
+.foto{
+	width: 100px;
+	height: 150px;
+	border-radius: 50px;
+}
+.foto:hover{
+	transform: scale(1.5);
+	border: 10px solid black;
+}
+	
+
+}
+.hobi{
+	overflow: inherit;
+}
+.icon{
+	height: 50px;
+	width: 50px;
+}
+.copy{
+	font-size:10px ;
+	font-family: helvetica;
+}
+a{
+    text-decoration:none;
+    color: white;
+}
+a:hover{
+    text-decoration: underline;
+    color: blue;
+}

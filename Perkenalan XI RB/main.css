@@ -1,0 +1,66 @@
+.navigasi{
+	background-color: darkgrey;
+	color: black;
+	font-size: 35px;
+	overflow: hidden;
+	list-style: none;
+	font-family: 'Times New Roman', Times, serif
+}
+.navigasi:hover{
+	text-decoration:none;
+}
+li {
+	float: left;
+	margin: 10px;
+}
+.gambar{
+	width: 250px;
+	border-radius: 400px;
+}
+.teks {
+	color: black;
+	font-size: 20px;
+	font-family: 'Times New Roman', Times, serif;
+}
+.foto{
+	width: 100px;
+	height: 150px;
+	border-radius: 50px;
+}
+.foto:hover{
+	transform: scale(1.5);
+	border: 10px solid black;
+}
+	
+.hobi{
+	overflow: inherit;
+}
+.icon{
+	height: 50px;
+	width: 50px;
+}
+.copy{
+	font-size:10px ;
+	font-family: helvetica;
+	color: grey;
+}
+
+.name{
+	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+	margin: 0px;
+}
+.nama{
+	color: rgb(0, 0, 0);
+	margin: 0px;
+	padding: 0px;
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+body{
+	background-color: silver;
+}
+td{
+	padding: 7px;
+}
+.form{
+	margin: 0px;
+}
